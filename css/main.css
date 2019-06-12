@@ -1,0 +1,43 @@
+/*****************************************
+GENERAL
+*******************************************/
+body {
+    font-family: 'Open Sans', ' sans-serif'
+}
+a {
+    text-decoration: none ;
+}
+
+#wrapper {
+max-width: 940px;
+margin: 0 auto 0 auto ;
+/* margin: 0 auto;
+margin-bottom: 0;
+margin-right: auto;
+margin-left: auto; */
+padding: 0 5%;
+}
+
+img {
+    max-width: 100%;
+}
+
+h3{
+    margin: 0 0 lem 0;
+}
+/*****************************************
+HEADING
+*******************************************/
+
+header{
+    margin: 0 0 30px 0;
+        padding: 5px 0 0 0 ;
+        width: 100%;
+}
+
+h1 {   
+    font-family: 'Changa One', 'San-serif'
+    margin: 15px 0;
+    font-size: 1.75em;
+    font-weight: 0.8em ;
+}
